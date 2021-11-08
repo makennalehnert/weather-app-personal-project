@@ -1,0 +1,25 @@
+div .weather{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top:30px;
+}
+
+div .weather h3{
+    color:darkslategrey;
+    font-size: 40px;
+}
+
+div .weather h7{
+    color:limegreen;
+    font-family:monospace;
+    font-weight:bold;
+    word-spacing: 0;
+}
+div .la h3{
+    color:limegreen;
+}
+
+div .chicago h3{
+    color:limegreen;
+}
